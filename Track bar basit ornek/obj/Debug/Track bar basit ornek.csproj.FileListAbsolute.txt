@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\bin\Debug\Track bar basit ornek.exe.config
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\bin\Debug\Track bar basit ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\bin\Debug\Track bar basit ornek.pdb
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track_bar_basit_ornek.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track_bar_basit_ornek.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.exe
+C:\Users\User\Desktop\KORUMASIZ\ilaydayalcin836\Track bar basit ornek\Track bar basit ornek\obj\Debug\Track bar basit ornek.pdb
